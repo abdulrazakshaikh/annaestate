@@ -1,0 +1,33 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" class="injected-svg js-svg-injector">
+ <style type="text/css">.icon-8-0{fill:none;stroke:#377DFF;}
+	.icon-8-1{fill:none;stroke:#BDC5D1;}
+	.icon-8-3{fill:#BDC5D1;}
+	.icon-8-4{fill:#377DFF;}
+	.icon-8-5{fill:none;stroke:#FFFFFF;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m104.7,93.2c-2,3 -4.4,5.8 -6.9,8.4" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-0 fill-none stroke-primary"/>
+  <path id="svg_2" d="m41.5,6.8c2.1,-0.6 4.3,-1.1 6.5,-1.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-8-1 fill-none stroke-gray-400"/>
+  <path id="svg_3" d="m16.2,22.2c3.8,-3.9 8.1,-7.3 12.8,-10.1" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-8-1 fill-none stroke-gray-400"/>
+  <path id="svg_4" d="m8.3,32.7c0.8,-1.4 1.7,-2.8 2.6,-4.1" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-8-1 fill-none stroke-gray-400"/>
+  <path id="svg_5" d="m57.4,118.4c-9.8,0 -19.1,-2.5 -27.1,-6.9" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-0 fill-none stroke-primary"/>
+  <path id="svg_6" d="m82.4,112.6c-1.9,0.9 -3.8,1.7 -5.8,2.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-0 fill-none stroke-primary"/>
+  <g id="svg_7">
+   <line id="svg_8" y2="46.9" x2="76.7" y1="46.9" x1="44.6" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-1 fill-none stroke-gray-400"/>
+   <line id="svg_9" y2="46.9" x2="37.3" y1="46.9" x1="14.1" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-1 fill-none stroke-gray-400"/>
+   <line id="svg_10" y2="76" x2="74.9" y1="76" x1="14.1" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-1 fill-none stroke-gray-400"/>
+   <line id="svg_11" y2="76" x2="100.8" y1="76" x1="90.2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-1 fill-none stroke-gray-400"/>
+  </g>
+  <line id="svg_12" y2="107.5" x2="57.4" y1="15.4" x1="57.4" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-1 fill-none stroke-gray-400"/>
+  <path id="svg_13" d="m71,17.4c-4.3,-1.3 -8.8,-2 -13.6,-2c-25.4,0 -46.1,20.6 -46.1,46c0,25.5 20.6,46.1 46.1,46.1c25.5,0 46.1,-20.6 46.1,-46.1c0,-5.3 -0.9,-10.4 -2.6,-15.2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-1 fill-none stroke-gray-400"/>
+  <path id="svg_14" d="m70.4,21.6c-1.3,-1.4 -2.8,-2.6 -4.3,-3.5c-2.7,-1.7 -5.7,-2.7 -8.7,-2.7c-14.3,0 -25.9,20.6 -25.9,46.1c0,25.5 11.6,46.1 25.9,46.1c14.3,0 25.9,-20.6 25.9,-46.1c0,-4.7 -0.4,-9.3 -1.2,-13.6" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-1 fill-none stroke-gray-400"/>
+  <path id="svg_15" d="m97.2,9.3c-11.5,0 -20.7,9.3 -20.7,20.7c0,6.1 7.2,19.7 19,36c0.4,0.6 1,0.8 1.7,0.8c0.7,0 1.3,-0.3 1.7,-0.8c11.8,-16.1 19,-29.7 19,-36c0,-11.4 -9.3,-20.7 -20.7,-20.7z" opacity="0.5" class="icon-8-3 fill-gray-400"/>
+  <path id="svg_16" d="m91.1,1.6c-11.5,0 -20.7,9.3 -20.7,20.7c0,6.1 7.2,19.7 19,36c0.4,0.6 1,0.8 1.7,0.8c0.7,0 1.3,-0.3 1.7,-0.8c11.8,-16.1 19,-29.7 19,-36c-0.1,-11.3 -9.4,-20.7 -20.7,-20.7z" class="icon-8-4 fill-primary"/>
+  <circle id="svg_17" r="9.6" cy="22.4" cx="91.1" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-8-5 fill-none stroke-white"/>
+ </g>
+</svg>

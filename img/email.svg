@@ -1,0 +1,44 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" class="injected-svg js-svg-injector">
+ <style type="text/css">.icon-15-0{fill:none;stroke:#BDC5D1;}
+	.icon-15-1{fill:#BDC5D1;}
+	.icon-15-2{fill:#377DFF;}
+	.icon-15-3{fill:none;stroke:#FFFFFF;}
+	.icon-15-4{fill:none;stroke:#377DFF;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line id="svg_1" y2="66.2" x2="35.9" y1="66.2" x1="25.2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_2" y2="76.4" x2="33.2" y1="76.4" x1="44.3" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_3" y2="76.5" x2="22.3" y1="76.5" x1="27.8" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_4" y2="85.8" x2="11.8" y1="85.8" x1="6.4" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_5" y2="85.8" x2="33.1" y1="85.8" x1="17.1" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_6" y2="76.5" x2="1.8" y1="76.5" x1="17.1" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_7" y2="66.2" x2="15.4" y1="66.2" x1="19" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <path id="svg_8" d="m115.7,114.2l-77,0c-2.4,0 -4.3,-2 -4.3,-4.3l0,-48c0,-2.4 2,-4.3 4.3,-4.3l76.9,0c2.4,0 4.3,2 4.3,4.3l0,48c0.1,2.3 -1.9,4.3 -4.2,4.3z" opacity="0.5" class="icon-15-1 fill-gray-400"/>
+  <path id="svg_9" d="m106.1,102.9l-76.9,0c-2.4,0 -4.3,-2 -4.3,-4.3l0,-48c0,-2.4 2,-4.3 4.3,-4.3l76.9,0c2.4,0 4.3,2 4.3,4.3l0,48c0,2.3 -1.9,4.3 -4.3,4.3z" class="icon-15-2 fill-primary"/>
+  <g id="svg_10">
+   <line id="svg_11" y2="101.5" x2="109.6" y1="81.6" x1="78.4" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-3 fill-none stroke-white"/>
+   <line id="svg_12" y2="101.5" x2="25.6" y1="81.6" x1="56.9" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-3 fill-none stroke-white"/>
+   <line id="svg_13" y2="78.6" x2="67.6" y1="47.9" x1="25.6" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-3 fill-none stroke-white"/>
+   <line id="svg_14" y2="78.6" x2="67.6" y1="47.9" x1="109.6" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-3 fill-none stroke-white"/>
+  </g>
+  <path id="svg_15" d="m106.1,102.9l-76.9,0c-2.4,0 -4.3,-2 -4.3,-4.3l0,-48c0,-2.4 2,-4.3 4.3,-4.3l76.9,0c2.4,0 4.3,2 4.3,4.3l0,48c0,2.3 -1.9,4.3 -4.3,4.3z" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-4 fill-none stroke-primary"/>
+  <line id="svg_16" y2="95.1" x2="55.8" y1="95.1" x1="70" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-3 fill-none stroke-white"/>
+  <line id="svg_17" y2="95.1" x2="82.6" y1="95.1" x1="76.2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-3 fill-none stroke-white"/>
+  <path id="svg_18" d="m89.9,107.9" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_19" y2="36.3" x2="90.4" y1="36.3" x1="72.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_20" y2="27.9" x2="103.4" y1="27.9" x1="108.7" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_21" y2="27.9" x2="82.1" y1="27.9" x1="98" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <line id="svg_22" y2="36.2" x2="112.4" y1="36.2" x1="97" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" opacity="0.5" class="icon-15-0 fill-none stroke-gray-400"/>
+  <path id="svg_23" d="m5,41.6l0,-26.9c0,-2.1 1.8,-3.9 3.9,-3.9l77.8,0c2.2,0 3.9,1.7 3.9,3.9l0,5.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-0 fill-none stroke-gray-400"/>
+  <g id="svg_24">
+   <line id="svg_25" y2="39.2" x2="47.4" y1="20.3" x1="17.5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-0 fill-none stroke-gray-400"/>
+   <line id="svg_26" y2="39.2" x2="47.6" y1="20" x1="78" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-0 fill-none stroke-gray-400"/>
+  </g>
+  <path id="svg_27" d="m25.2,5.8" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3" class="icon-15-0 fill-none stroke-gray-400"/>
+ </g>
+</svg>
